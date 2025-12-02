@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # RiskWritr Demos
 
 Interactive demo suite for RiskWritr - Intelligent Submission Quality for Commercial Insurance.
